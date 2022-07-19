@@ -1,0 +1,8 @@
+.humanosEstilos {
+    background-color: #000;
+    margin: 5px;
+    padding: 10px;
+    color: #fff;
+    border: 2px solid #f00;
+    max-width: 500px;
+}
